@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+pydantic
+pydantic-settings
+chromadb
+qdrant-client
+groq
+openai
+langchain-core
+langchain-community
+langchain-groq
+langchain-openai
+fastapi
+uvicorn
